@@ -1,7 +1,7 @@
 ## Olá! Eu sou Felipe Santos, Densenvolvedor Back-End
 - 📖 Formado em Desenvolvimento de Sistema
 - 👨‍💻 Programador Back-end
-- 🏫 Estudande universitario da BA em ADS
+- 🏫 Estudante universitario da BA em ADS
 - 💻 Estudando Python e suas bibliotecas
 - 📍 Procurando Emprego
 
