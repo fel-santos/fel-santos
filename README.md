@@ -24,8 +24,5 @@
 
 ---
 
-## 📈 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=dark)
-
 ## 📫 Como me encontrar
-[LinkedIn](link-do-seu-linkedin) | [E-mail](seu-email@exemplo.com)
+[LinkedIn](https://www.linkedin.com/in/felipe-santos-da-silva-56a7b7353/) | [E-mail](felypesantossil@gmail.com)
